@@ -1,5 +1,7 @@
 # Tic-Toc-Toe
-
+The Tic Tac Toe project in Core Java is a simple two-player game that demonstrates basic concepts of object-oriented
+programming and control structures. It provides a console-based interface for players to take turns, check for winners, and display
+the game board after each move.
 # Program
 ```python
 package TicTacToe;
@@ -141,3 +143,6 @@ public class Main {
 }
 
 ```
+# Output
+![Screenshot 2025-05-07 232252](https://github.com/user-attachments/assets/e7c6a65c-4b6f-4e67-bd01-47f88a533c7d)
+
